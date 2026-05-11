@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProgramFiles\\TasFBI\\TasFBI\\TasFBI.csproj": {}
+    "H:\\ChckList\\Check-List\\TasFBI\\TasFBI\\TasFBI.csproj": {}
   },
   "projects": {
-    "D:\\ProgramFiles\\TasFBI\\TasFBI\\TasFBI.csproj": {
+    "H:\\ChckList\\Check-List\\TasFBI\\TasFBI\\TasFBI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProgramFiles\\TasFBI\\TasFBI\\TasFBI.csproj",
+        "projectUniqueName": "H:\\ChckList\\Check-List\\TasFBI\\TasFBI\\TasFBI.csproj",
         "projectName": "TasFBI",
-        "projectPath": "D:\\ProgramFiles\\TasFBI\\TasFBI\\TasFBI.csproj",
-        "packagesPath": "C:\\Users\\Hosein\\.nuget\\packages\\",
-        "outputPath": "D:\\ProgramFiles\\TasFBI\\TasFBI\\obj\\",
+        "projectPath": "H:\\ChckList\\Check-List\\TasFBI\\TasFBI\\TasFBI.csproj",
+        "packagesPath": "C:\\Users\\Mahyar_FBI\\.nuget\\packages\\",
+        "outputPath": "H:\\ChckList\\Check-List\\TasFBI\\TasFBI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hosein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mahyar_FBI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -29,7 +29,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
+          "net8.0-windows": {
+            "framework": "net8.0-windows7.0",
             "targetAlias": "net8.0-windows",
             "projectReferences": {}
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net8.0-windows7.0": {
+        "net8.0-windows": {
+          "framework": "net8.0-windows7.0",
           "targetAlias": "net8.0-windows",
           "imports": [
             "net461",
@@ -60,6 +62,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.26, 8.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.26, 8.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.26, 8.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.26, 8.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -68,7 +88,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
