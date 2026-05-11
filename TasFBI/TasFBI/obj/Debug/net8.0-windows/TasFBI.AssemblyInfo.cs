@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TasFBI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb2b8b7058475962ce765451ec9c788f18cc2ab5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad5672ecb3d66aca78d335a401a9a7da2244862b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TasFBI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TasFBI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
