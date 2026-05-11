@@ -1,0 +1,71 @@
+H:\پروژه های مدرسه\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.exe
+H:\پروژه های مدرسه\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.deps.json
+H:\پروژه های مدرسه\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.runtimeconfig.json
+H:\پروژه های مدرسه\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.dll
+H:\پروژه های مدرسه\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.pdb
+H:\پروژه های مدرسه\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.Form1.resources
+H:\پروژه های مدرسه\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.csproj.GenerateResource.cache
+H:\پروژه های مدرسه\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.GeneratedMSBuildEditorConfig.editorconfig
+H:\پروژه های مدرسه\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.AssemblyInfoInputs.cache
+H:\پروژه های مدرسه\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.AssemblyInfo.cs
+H:\پروژه های مدرسه\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.csproj.CoreCompileInputs.cache
+H:\پروژه های مدرسه\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.dll
+H:\پروژه های مدرسه\TasFBI\TasFBI\obj\Debug\net8.0-windows\refint\TasFBI.dll
+H:\پروژه های مدرسه\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.pdb
+H:\پروژه های مدرسه\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.genruntimeconfig.cache
+H:\پروژه های مدرسه\TasFBI\TasFBI\obj\Debug\net8.0-windows\ref\TasFBI.dll
+D:\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.Form1.resources
+D:\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.Properties.Resources.resources
+D:\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.csproj.GenerateResource.cache
+D:\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.AssemblyInfoInputs.cache
+D:\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.AssemblyInfo.cs
+D:\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.csproj.CoreCompileInputs.cache
+D:\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.dll
+D:\TasFBI\TasFBI\obj\Debug\net8.0-windows\refint\TasFBI.dll
+D:\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.pdb
+D:\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.exe
+D:\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.deps.json
+D:\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.runtimeconfig.json
+D:\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.dll
+D:\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.pdb
+D:\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.genruntimeconfig.cache
+D:\TasFBI\TasFBI\obj\Debug\net8.0-windows\ref\TasFBI.dll
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.exe
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.deps.json
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.runtimeconfig.json
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.dll
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.pdb
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.Form1.resources
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.Properties.Resources.resources
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.csproj.GenerateResource.cache
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.GeneratedMSBuildEditorConfig.editorconfig
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.AssemblyInfoInputs.cache
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.AssemblyInfo.cs
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.csproj.CoreCompileInputs.cache
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.dll
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\refint\TasFBI.dll
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.pdb
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.genruntimeconfig.cache
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\ref\TasFBI.dll
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.EditTaskForm.resources
+H:\پروژه های مدرسه\TasFBI\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.FrmAddTask.resources
+D:\ProgramFiles\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.exe
+D:\ProgramFiles\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.deps.json
+D:\ProgramFiles\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.runtimeconfig.json
+D:\ProgramFiles\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.dll
+D:\ProgramFiles\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.pdb
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.EditTaskForm.resources
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.Form1.resources
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.FrmAddTask.resources
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.Properties.Resources.resources
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.csproj.GenerateResource.cache
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.AssemblyInfoInputs.cache
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.AssemblyInfo.cs
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.csproj.CoreCompileInputs.cache
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.dll
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\refint\TasFBI.dll
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.pdb
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.genruntimeconfig.cache
+D:\ProgramFiles\TasFBI\TasFBI\obj\Debug\net8.0-windows\ref\TasFBI.dll

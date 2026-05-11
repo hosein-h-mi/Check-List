@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramFiles\\TasFBI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|d:\\programfiles\\tasfbi\\tasfbi\\frmaddtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|solutionrelative:tasfbi\\frmaddtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|d:\\programfiles\\tasfbi\\tasfbi\\edittaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|solutionrelative:tasfbi\\edittaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|D:\\ProgramFiles\\TasFBI\\tasfbi\\frmaddtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|solutionrelative:tasfbi\\frmaddtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|D:\\ProgramFiles\\TasFBI\\tasfbi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|solutionrelative:tasfbi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|D:\\ProgramFiles\\TasFBI\\tasfbi\\edittaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|solutionrelative:tasfbi\\edittaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|d:\\programfiles\\tasfbi\\tasfbi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|solutionrelative:tasfbi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|d:\\programfiles\\tasfbi\\tasfbi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|solutionrelative:tasfbi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAddTask.cs [Design]",
+              "DocumentMoniker": "D:\\ProgramFiles\\TasFBI\\TasFBI\\FrmAddTask.cs",
+              "RelativeDocumentMoniker": "TasFBI\\FrmAddTask.cs",
+              "ToolTip": "D:\\ProgramFiles\\TasFBI\\TasFBI\\FrmAddTask.cs [Design]",
+              "RelativeToolTip": "TasFBI\\FrmAddTask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:05:34.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditTaskForm.cs [Design]",
+              "DocumentMoniker": "D:\\ProgramFiles\\TasFBI\\TasFBI\\EditTaskForm.cs",
+              "RelativeDocumentMoniker": "TasFBI\\EditTaskForm.cs",
+              "ToolTip": "D:\\ProgramFiles\\TasFBI\\TasFBI\\EditTaskForm.cs [Design]",
+              "RelativeToolTip": "TasFBI\\EditTaskForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:27:41.404Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ProgramFiles\\TasFBI\\TasFBI\\Form1.cs",
+              "RelativeDocumentMoniker": "TasFBI\\Form1.cs",
+              "ToolTip": "D:\\ProgramFiles\\TasFBI\\TasFBI\\Form1.cs [Design]",
+              "RelativeToolTip": "TasFBI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T14:02:34.448Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAddTask.cs",
+              "DocumentMoniker": "D:\\ProgramFiles\\TasFBI\\TasFBI\\FrmAddTask.cs",
+              "RelativeDocumentMoniker": "TasFBI\\FrmAddTask.cs",
+              "ToolTip": "D:\\ProgramFiles\\TasFBI\\TasFBI\\FrmAddTask.cs",
+              "RelativeToolTip": "TasFBI\\FrmAddTask.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:08:21.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditTaskForm.cs",
+              "DocumentMoniker": "D:\\ProgramFiles\\TasFBI\\TasFBI\\EditTaskForm.cs",
+              "RelativeDocumentMoniker": "TasFBI\\EditTaskForm.cs",
+              "ToolTip": "D:\\ProgramFiles\\TasFBI\\TasFBI\\EditTaskForm.cs",
+              "RelativeToolTip": "TasFBI\\EditTaskForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:09:29.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ProgramFiles\\TasFBI\\TasFBI\\Form1.cs",
+              "RelativeDocumentMoniker": "TasFBI\\Form1.cs",
+              "ToolTip": "D:\\ProgramFiles\\TasFBI\\TasFBI\\Form1.cs",
+              "RelativeToolTip": "TasFBI\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:53:04.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\ProgramFiles\\TasFBI\\TasFBI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TasFBI\\Form1.Designer.cs",
+              "ToolTip": "D:\\ProgramFiles\\TasFBI\\TasFBI\\Form1.Designer.cs",
+              "RelativeToolTip": "TasFBI\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:26:03.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
