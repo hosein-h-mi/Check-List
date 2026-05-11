@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Program Files\\Check-List\\TasFBI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|D:\\Program Files\\Check-List\\TasFBI\\tasfbi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|d:\\program files\\check-list\\tasfbi\\tasfbi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0D4A35F-098F-4FEF-846D-9E3DDF5CAAF2}|TasFBI\\TasFBI.csproj|solutionrelative:tasfbi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -49,8 +49,7 @@
               "ToolTip": "D:\\Program Files\\Check-List\\TasFBI\\TasFBI\\FrmAddTask.cs [Design]",
               "RelativeToolTip": "TasFBI\\FrmAddTask.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T16:05:34.508Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-04-26T16:05:34.508Z"
             },
             {
               "$type": "Document",
@@ -61,8 +60,7 @@
               "ToolTip": "D:\\Program Files\\Check-List\\TasFBI\\TasFBI\\EditTaskForm.cs [Design]",
               "RelativeToolTip": "TasFBI\\EditTaskForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T14:27:41.404Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-04-26T14:27:41.404Z"
             },
             {
               "$type": "Document",
@@ -86,8 +84,7 @@
               "RelativeToolTip": "TasFBI\\FrmAddTask.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T16:08:21.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T16:08:21.555Z"
             },
             {
               "$type": "Document",

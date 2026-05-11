@@ -89,3 +89,23 @@ H:\ChckList\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\refint\TasFBI.dll
 H:\ChckList\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.pdb
 H:\ChckList\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.genruntimeconfig.cache
 H:\ChckList\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\ref\TasFBI.dll
+D:\Program Files\Check-List\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.exe
+D:\Program Files\Check-List\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.deps.json
+D:\Program Files\Check-List\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.runtimeconfig.json
+D:\Program Files\Check-List\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.dll
+D:\Program Files\Check-List\TasFBI\TasFBI\bin\Debug\net8.0-windows\TasFBI.pdb
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.EditTaskForm.resources
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.Form1.resources
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.FrmAddTask.resources
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.Properties.Resources.resources
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.csproj.GenerateResource.cache
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.AssemblyInfoInputs.cache
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.AssemblyInfo.cs
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.csproj.CoreCompileInputs.cache
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.sourcelink.json
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.dll
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\refint\TasFBI.dll
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.pdb
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\TasFBI.genruntimeconfig.cache
+D:\Program Files\Check-List\TasFBI\TasFBI\obj\Debug\net8.0-windows\ref\TasFBI.dll

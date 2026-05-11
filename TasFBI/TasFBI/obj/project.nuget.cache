@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O4n9DRSnRGw=",
+  "dgSpecHash": "rpvWAcVLEFI=",
   "success": true,
-  "projectFilePath": "H:\\ChckList\\Check-List\\TasFBI\\TasFBI\\TasFBI.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Mahyar_FBI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
-    "C:\\Users\\Mahyar_FBI\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
-    "C:\\Users\\Mahyar_FBI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
-    "C:\\Users\\Mahyar_FBI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Program Files\\Check-List\\TasFBI\\TasFBI\\TasFBI.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
